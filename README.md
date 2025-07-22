@@ -1,6 +1,6 @@
 # AI Prompt Database
 
-![AI Prompt Database Hero](assets/hero.png)
+![AI Prompt Database Hero](assets/hero.webp)
 
 A curated, open-source collection of high-quality AI prompts for a wide range of use cases.  
 Easily search, browse, and contribute your own prompts to empower creators, developers, educators, and AI enthusiasts.
